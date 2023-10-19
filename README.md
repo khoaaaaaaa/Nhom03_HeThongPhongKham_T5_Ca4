@@ -1,4 +1,4 @@
-![image](https://github.com/khoaaaaaaa/Nhom03_HeThongPhongKham_T5_Ca4/assets/143615274/56bc241c-56aa-4d65-9555-859b382ed680)# Nhom03_HeThongPhongKham_T5_Ca4
+![image](https://github.com/khoaaaaaaa/Nhom03_HeThongPhongKham_T5_Ca4/assets/143615274/ffb393f8-20de-4d70-b0ef-af5165720ca1)![image](https://github.com/khoaaaaaaa/Nhom03_HeThongPhongKham_T5_Ca4/assets/143615274/56bc241c-56aa-4d65-9555-859b382ed680)# Nhom03_HeThongPhongKham_T5_Ca4
 
 Nhóm 3 chúng em gồm 4 thành viên cùng với đề tài "Quản Lý Phòng Khám".
 <div style="display: flex;" class="img">
@@ -64,8 +64,32 @@ Nhóm 3 chúng em gồm 4 thành viên cùng với đề tài "Quản Lý Phòng
 </ul> 
 
 <h1>Các giao diện cụ thể của website về phòng khám của chúng tôi</h1>
-<h3 style="color: red; font-weight: bold;">Giao diện trang Home</h3>
+<h3>Giao diện trang Home</h3>
 <img width="100%" src="https://scontent.fsgn13-3.fna.fbcdn.net/v/t1.15752-9/393920447_371785555412865_4040297372146141258_n.png?_nc_cat=108&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=iVw0WxvkPVQAX-jVVGZ&_nc_ht=scontent.fsgn13-3.fna&oh=03_AdSXVnAyoSqA64ffXVrB1LMQhVYJp6gWi-xPRr5Dbipx5g&oe=655869EE" alt="Hình ảnh trang Home">
+<h3>Giao diện trang danh sách Bác Sĩ</h3>
+<img src="https://scontent.fsgn13-3.fna.fbcdn.net/v/t1.15752-9/394291204_3415465125432398_3123372150795673095_n.png?_nc_cat=102&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=DyLCDJ0ryHsAX_TpQOE&_nc_ht=scontent.fsgn13-3.fna&oh=03_AdTKrTaaD4YFjH-7URG-A2Pkt8wtMvkw12xaFGP_jBL4MA&oe=65586708" alt="Hình ảnh danh sách Bác Sĩ">
+<h3>Giao diện xem chi tiết thông tin Bác Sĩ</h3>
+<img src="https://scontent.fsgn13-4.fna.fbcdn.net/v/t1.15752-9/393945688_296374116491644_6353984721381977035_n.png?_nc_cat=107&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=padEeW06cQwAX8ISpWu&_nc_ht=scontent.fsgn13-4.fna&oh=03_AdSE3xnBKFBcTaOXI267TDTaAYSnzWPCrYkY2yJkRYPEJA&oe=655850FA" alt="">
+<h3>Giao diện trang Dịch Vụ</h3>
+<img src="https://scontent.fsgn13-3.fna.fbcdn.net/v/t1.15752-9/393877286_1000560241003240_4673465780102624573_n.png?_nc_cat=108&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=Zfy10xIBzOQAX-2D4Mz&_nc_ht=scontent.fsgn13-3.fna&oh=03_AdTJs_w3EgOiWbI1Y9TaHdrGtbcQ3MFhD2cwp8p9nuiMxg&oe=655858DE" alt="">
+<h3>Giao diện trang tin tức</h3>
+<img src="https://scontent.fsgn13-4.fna.fbcdn.net/v/t1.15752-9/394117902_852669169833071_7822702814205633659_n.png?_nc_cat=110&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=bvIRcM59-uQAX-bSexs&_nc_ht=scontent.fsgn13-4.fna&oh=03_AdTOSycggkG4OB3Zpsx5UeQK6OX5lMqnakKktac6MCOHQw&oe=65586582" alt="">
+<h3>Giao diện trang xem chi tiết tin tức</h3>
+<img src="https://scontent.fsgn13-3.fna.fbcdn.net/v/t1.15752-9/393216101_1049343226513418_7794392382871626538_n.png?_nc_cat=102&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=0fVS0HrwpYsAX-ZlwS6&_nc_ht=scontent.fsgn13-3.fna&oh=03_AdQKccJ88GGh6_GvUeWrFJyEWvmeEbsLYIgID2qim88JLQ&oe=65587EA3" alt="">
+<h3>Giao diện trang liên hệ</h3>
+<img src="https://scontent.fsgn13-4.fna.fbcdn.net/v/t1.15752-9/393970618_710019041175713_5953387368316019480_n.png?_nc_cat=107&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=zw6nPV3lMqoAX8qEO6C&_nc_ht=scontent.fsgn13-4.fna&oh=03_AdRtwizJrSzdrNy64UQyljOCbPWUQYLpmd9H09ikJ-Uo1A&oe=65586D77" alt="">
+<h3>Giao diện đăng ký tài khoản</h3>
+<img src="https://scontent.fsgn3-1.fna.fbcdn.net/v/t1.15752-9/393464056_325509986743993_2221783394895217509_n.png?_nc_cat=111&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=UiSDRv4RsVoAX-ZOFWx&_nc_ht=scontent.fsgn3-1.fna&oh=03_AdRxTLVBB7GT80WmyJUeg6s7jULWn4ox34sdXI2sDosncA&oe=6558850D" alt="">
+<h3>Giao diện đăng nhập</h3>
+<img src="https://scontent.fsgn13-2.fna.fbcdn.net/v/t1.15752-9/393924299_185827017895034_8179914915043966382_n.png?_nc_cat=109&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=vByirLB8s70AX8Xy20Y&_nc_ht=scontent.fsgn13-2.fna&oh=03_AdT71Tyxm92zy3enYzwFgWUKlHfryAM0tBITOU22HHZpYg&oe=65585FF5" alt="">
+<h3>Giao diện thanh header sau khi đăng nhập</h3>
+<img src="https://scontent.fsgn13-2.fna.fbcdn.net/v/t1.15752-9/394025324_834775938344141_4195157825911101080_n.png?_nc_cat=109&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=4BQTiaNRmBsAX-UOxPB&_nc_ht=scontent.fsgn13-2.fna&oh=03_AdQVRGj58XcHcqOH858ZDSaIM4cy01IbGSdjF2fMgwgOKg&oe=65585A2C" alt="">
+<h3>Giao diện đặt hẹn khám bệnh của khách hàng</h3>
+<img src="https://scontent.fsgn13-4.fna.fbcdn.net/v/t1.15752-9/393838733_1571142500382765_469113509517159630_n.png?_nc_cat=107&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=OyE_5GwoA6UAX-vkTAS&_nc_ht=scontent.fsgn13-4.fna&oh=03_AdSqmtFUzMKrP_pOqDdDONZm8HzI5XMZzrGh9Y0F4yiI5A&oe=65584F96" alt="">
+
+
+
+
 
 
 
