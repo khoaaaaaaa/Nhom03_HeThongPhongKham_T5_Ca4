@@ -1,4 +1,4 @@
-# Nhom03_HeThongPhongKham_T5_Ca4
+![image](https://github.com/khoaaaaaaa/Nhom03_HeThongPhongKham_T5_Ca4/assets/143615274/56bc241c-56aa-4d65-9555-859b382ed680)# Nhom03_HeThongPhongKham_T5_Ca4
 
 Nhóm 3 chúng em gồm 4 thành viên cùng với đề tài "Quản Lý Phòng Khám".
 <div style="display: flex;" class="img">
@@ -64,7 +64,8 @@ Nhóm 3 chúng em gồm 4 thành viên cùng với đề tài "Quản Lý Phòng
 </ul> 
 
 <h1>Các giao diện cụ thể của website về phòng khám của chúng tôi</h1>
-![https://github.com/khoaaaaaaa/Nhom03_HeThongPhongKham_T5_Ca4/assets/143615274/4d488cfa-9dee-41af-ad3e-7ba3fc2bb60f]()
+<h3 style="color: red; font-weight: bold;">Giao diện trang Home</h3>
+<img width="100%" src="https://scontent.fsgn13-3.fna.fbcdn.net/v/t1.15752-9/393920447_371785555412865_4040297372146141258_n.png?_nc_cat=108&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=iVw0WxvkPVQAX-jVVGZ&_nc_ht=scontent.fsgn13-3.fna&oh=03_AdSXVnAyoSqA64ffXVrB1LMQhVYJp6gWi-xPRr5Dbipx5g&oe=655869EE" alt="Hình ảnh trang Home">
 
 
 
