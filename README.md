@@ -36,7 +36,6 @@ Nhóm 3 chúng em gồm 4 thành viên cùng với đề tài "Quản Lý Phòng
       <p>Với sứ mệnh tìm kiếm và thu thập yêu cầu từ khách hàng. <br>Chàng trai ấy phải luôn dõi theo từng ý kiến của khách hàng kể từ đó ghi nhận và truyền đạt lại cho Scrum Master.</p>
     </div>
 </div>
-/* */
 
 <div style="display: flex;" class="img">
   <div class="image">
@@ -65,6 +64,7 @@ Nhóm 3 chúng em gồm 4 thành viên cùng với đề tài "Quản Lý Phòng
 </ul> 
 
 <h1>Các giao diện cụ thể của website về phòng khám của chúng tôi</h1>
+![https://github.com/khoaaaaaaa/Nhom03_HeThongPhongKham_T5_Ca4/assets/143615274/4d488cfa-9dee-41af-ad3e-7ba3fc2bb60f]()
 
 
 
