@@ -97,20 +97,20 @@ Nhóm 3 chúng em gồm 4 thành viên cùng với đề tài "Quản Lý Phòng
 <h1>Những nội dung chúng em đã làm được trong 2 sprint vừa qua bao gồm những chức năng sau:</h1>
 <ul>
   <li>
-    <h2>Đăng ký</h2>
+    <h3>Đăng ký</h3>
   </li>
   <li><h3>Đăng nhập</h2></li>
   <li><h3>Cập nhật thông tin cá nhân</h3></li>
   <li><h3>Tìm kiếm bác sĩ</h3></li>
   <li><h3>Tìm kiếm dịch vụ</h2></li>
   <li><h3>Đặt lịch hẹn tư vấn khám bệnh</h3></li>
-  <li><h3>Chỉnh sửa thông tin lịch hẹn</h23</li>
+  <li><h3>Chỉnh sửa thông tin lịch hẹn</h3</li>
   <li><h3>Xóa lịch hẹn</h3></li>
   <li><h3>Xem chi tiết bác sĩ</h3></li>
-  <li><h3>Xem chi tiết dịch vụ<h3></li>
-  <li><h3>Tất cả giao diện cơ bản của website</h2></li>
+  <li><h3>Xem chi tiết dịch vụ</h3></li>
+  <li><h3>Tất cả giao diện cơ bản của website</h3></li>
 </ul>
-<h2>Trong sprint 3, chúng em sẽ tiến hành phân quyền cho từng bộ phận. Đồng thời, chúng em sẽ cố gắng thực hiện chức năng sắp xếp bác sĩ cho khách hàng đặt lịch tư vấn một cách chính xác nhất.</h2>
+<h1>Trong sprint 3, chúng em sẽ tiến hành phân quyền cho từng bộ phận. Đồng thời, chúng em sẽ cố gắng thực hiện chức năng sắp xếp bác sĩ cho khách hàng đặt lịch tư vấn một cách chính xác nhất.</h1>
 <h1>Trong tương lai, chúng em có thể phát triển thêm nhiều chức năng khác ví dụ như:</h1>
 <ul>
   <li><h3>Phát triển thêm tính năng đánh giá và nhận xét bác sĩ</h3></li>
