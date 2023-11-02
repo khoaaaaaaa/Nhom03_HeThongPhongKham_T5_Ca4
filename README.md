@@ -110,7 +110,7 @@ Nhóm 3 chúng em gồm 4 thành viên cùng với đề tài "Quản Lý Phòng
   <li><h3>Xem chi tiết dịch vụ</h3></li>
   <li><h3>Tất cả giao diện cơ bản của website</h3></li>
 </ul>
-<h1>Trong sprint 3, chúng em sẽ tiến hành phân quyền cho từng bộ phận. Đồng thời, chúng em sẽ cố gắng thực hiện chức năng sắp xếp bác sĩ cho khách hàng đặt lịch tư vấn một cách chính xác nhất.</h1>
+<h3>Trong sprint 3, chúng em sẽ tiến hành phân quyền cho từng bộ phận. Đồng thời, chúng em sẽ cố gắng thực hiện chức năng sắp xếp bác sĩ cho khách hàng đặt lịch tư vấn một cách chính xác nhất.</h3>
 <h1>Trong tương lai, chúng em có thể phát triển thêm nhiều chức năng khác ví dụ như:</h1>
 <ul>
   <li><h3>Phát triển thêm tính năng đánh giá và nhận xét bác sĩ</h3></li>
