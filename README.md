@@ -39,7 +39,7 @@ Nhóm 3 chúng em gồm 4 thành viên cùng với đề tài "Quản Lý Phòng
 <div style="display: flex;" class="img">
   <div class="image">
     <h1>Thành viên 4:</h1>
-         <img style="justify-content: center;" width="50%" src="https://scontent.fsgn8-2.fna.fbcdn.net/v/t39.30808-6/311431707_3349750868682805_4756851335440238813_n.jpg?stp=cp6_dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=3PQ6YYsGj8YAX-Byz8L&_nc_ht=scontent.fsgn8-2.fna&oh=00_AfBX1x3wgVQi27HCeIcY2PP6GkofGlzlElOTCXpMAZfPvA&oe=65367FC6" alt="Hình ảnh Đăng Khoa">
+         <img style="justify-content: center;" width="50%" src="https://scontent.fsgn5-10.fna.fbcdn.net/v/t39.30808-6/368372478_3626849024306320_6499839642339128687_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Szjl2sa-HYYAX-LzMuv&_nc_ht=scontent.fsgn5-10.fna&oh=00_AfCQRVYtfSIthY-C3WsTvJ84-HiunPNnjtuXpJc2pZzjGQ&oe=65483386" alt="Hình ảnh Đăng Khoa">
     </div>
     <div class="description">
       <h2>Ngô Đăng Khoa - 21DH110857</h2>
