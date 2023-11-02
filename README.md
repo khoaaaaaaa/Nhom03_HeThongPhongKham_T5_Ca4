@@ -20,7 +20,7 @@ Nhóm 3 chúng em gồm 4 thành viên cùng với đề tài "Quản Lý Phòng
     <div class="description">
       <h2>Trần Phát Tài - 21DH111645</h2>
       <h3>Vai trò: Scurm Master</h3>
-      <p>Với trọng trách gánh vác cực khổ phải gòng mình làm file báo cáo cho nhóm. <br> Không những thệ cậu trai ấy còn phải nhắc nhở các bạn cùng nhóm thực hiện đồ án đúng hạn. <br> Cậu ta có tiếng nói nhất trong nhóm 2.</p>
+      <p>Với trọng trách gánh vác cực khổ phải gòng mình làm file báo cáo cho nhóm. <br> Không những thế cậu trai ấy còn phải nhắc nhở các bạn cùng nhóm thực hiện đồ án đúng hạn. <br> Cậu ta có tiếng nói nhất trong nhóm 2.</p>
     </div>
 </div>
 
@@ -105,10 +105,10 @@ Nhóm 3 chúng em gồm 4 thành viên cùng với đề tài "Quản Lý Phòng
   <li><h3>Tìm kiếm dịch vụ</h2></li>
   <li><h3>Đặt lịch hẹn tư vấn khám bệnh</h3></li>
   <li><h3>Chỉnh sửa thông tin lịch hẹn</h23</li>
-  <li><h3>Xóa lịch hẹn</h2></li3
-  <li><h3>Xem chi tiết bác sĩ</32></li>
-  <li><h3>Xem chi tiết dịch vụ<3h2></li>
-  <li><h3>Tất cả giao diện cơ b3n của website</h2></li>
+  <li><h3>Xóa lịch hẹn</h3></li>
+  <li><h3>Xem chi tiết bác sĩ</h3></li>
+  <li><h3>Xem chi tiết dịch vụ<h3></li>
+  <li><h3>Tất cả giao diện cơ bản của website</h2></li>
 </ul>
 <h2>Trong sprint 3, chúng em sẽ tiến hành phân quyền cho từng bộ phận. Đồng thời, chúng em sẽ cố gắng thực hiện chức năng sắp xếp bác sĩ cho khách hàng đặt lịch tư vấn một cách chính xác nhất.</h2>
 <h1>Trong tương lai, chúng em có thể phát triển thêm nhiều chức năng khác ví dụ như:</h1>
