@@ -70,31 +70,31 @@ Nhóm 3 chúng em gồm 4 thành viên cùng với đề tài "Quản Lý Phòng
 <h3>Giao diện đặt hẹn khám bệnh của khách hàng</h3>
 <img src="https://scontent.fsgn13-4.fna.fbcdn.net/v/t1.15752-9/393838733_1571142500382765_469113509517159630_n.png?_nc_cat=107&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=OyE_5GwoA6UAX-vkTAS&_nc_ht=scontent.fsgn13-4.fna&oh=03_AdSqmtFUzMKrP_pOqDdDONZm8HzI5XMZzrGh9Y0F4yiI5A&oe=65584F96" alt="">
 
-<h3>Các công nghệ mà nhóm em sử dụng trong đồ án môn Công Nghệ Phần Mềm:</h3>
+<h1>Các công nghệ mà nhóm em sử dụng trong đồ án môn Công Nghệ Phần Mềm:</h1>
 <ul>
   <li>
-    <h2>HTML: HTML là ngôn ngữ đánh dấu chính được sử dụng để xây dựng cấu trúc và định dạng nội dung trên trang web.</h2>
+    <h3>HTML: HTML là ngôn ngữ đánh dấu chính được sử dụng để xây dựng cấu trúc và định dạng nội dung trên trang web.</h3>
     <img src="https://th.bing.com/th/id/OIP.LISFqMxGvYseuESXt-MK_wHaEK?pid=ImgDet&rs=1" alt="">
   </li>
   <li>
-    <h2>CSS: CSS được sử dụng để áp dụng các kiểu và định dạng cho các phần tử HTML. Nó giúp điều chỉnh màu sắc, kích thước, khoảng cách, vị trí và hiệu ứng của các phần tử trên trang web.</h2>
+    <h3>CSS: CSS được sử dụng để áp dụng các kiểu và định dạng cho các phần tử HTML. Nó giúp điều chỉnh màu sắc, kích thước, khoảng cách, vị trí và hiệu ứng của các phần tử trên trang web.</h3>
     <img src="https://th.bing.com/th/id/OIP.FtpXpkKTS28O21r3NstBggHaEL?pid=ImgDet&rs=1" alt="">
   </li>
   <li>
-    <h2>CSS: Bootstrap: Bootstrap là một framework CSS phổ biến, cung cấp một tập hợp các lớp CSS và JavaScript để giúp xây dựng giao diện.</h2>
+    <h3>CSS: Bootstrap: Bootstrap là một framework CSS phổ biến, cung cấp một tập hợp các lớp CSS và JavaScript để giúp xây dựng giao diện.</h3>
     <img width="48%" src="https://1.bp.blogspot.com/-G5J7kLSz8YY/XtY-bTC3X5I/AAAAAAAAAh4/jLokDsDeiFQsbAtymxMCaElw9Qlx8OkfgCNcBGAsYHQ/s1600/bootstrap-illustration.png" alt="">
   </li>
   <li>
-    <h2>PHP: PHP (Hypertext Preprocessor) là một ngôn ngữ lập trình phía máy chủ mạnh mẽ và phổ biến.</h2>
+    <h3>PHP: PHP (Hypertext Preprocessor) là một ngôn ngữ lập trình phía máy chủ mạnh mẽ và phổ biến.</h3>
     <img src="https://th.bing.com/th/id/OIP.A1V_rgVxBfvAToTMNGZ8SAHaE8?pid=ImgDet&rs=1" alt="">
   </li>
   <li>
-    <h2>Laravel 8: Laravel là một framework PHP mạnh mẽ và linh hoạt, được sử dụng để phát triển ứng dụng web.</h2>
+    <h3>Laravel 8: Laravel là một framework PHP mạnh mẽ và linh hoạt, được sử dụng để phát triển ứng dụng web.</h3>
     <img src="https://th.bing.com/th/id/OIP.OvFl4COpKL-K-OMQ-i5qMAHaEK?pid=ImgDet&rs=1" alt="">
   </li>
 </ul>
 
-<h2>Những nội dung chúng em đã làm được trong 2 sprint vừa qua bao gồm những chức năng sau:</h2>
+<h1>Những nội dung chúng em đã làm được trong 2 sprint vừa qua bao gồm những chức năng sau:</h1>
 <ul>
   <li>
     <h2>Đăng ký</h2>
