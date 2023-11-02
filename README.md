@@ -90,29 +90,30 @@ Nhóm 3 chúng em gồm 4 thành viên cùng với đề tài "Quản Lý Phòng
 <ul>
   <li>
     <p>HTML: HTML là ngôn ngữ đánh dấu chính được sử dụng để xây dựng cấu trúc và định dạng nội dung trên trang web.</p>
-    <img src="" alt="">
+    <img width="100%" src="https://th.bing.com/th/id/OIP.LISFqMxGvYseuESXt-MK_wHaEK?pid=ImgDet&rs=1" alt="">
   </li>
   <li>
     <p>CSS: CSS được sử dụng để áp dụng các kiểu và định dạng cho các phần tử HTML. Nó giúp điều chỉnh màu sắc, kích thước, khoảng cách, vị trí và hiệu ứng của các phần tử trên trang web.</p>
-    <img src="" alt="">
+    <img width="100%" src="https://th.bing.com/th/id/OIP.FtpXpkKTS28O21r3NstBggHaEL?pid=ImgDet&rs=1" alt="">
   </li>
   <li>
     <p>CSS: Bootstrap: Bootstrap là một framework CSS phổ biến, cung cấp một tập hợp các lớp CSS và JavaScript để giúp xây dựng giao diện.</p>
-    <img src="" alt="">
+    <img width="100%" src="https://1.bp.blogspot.com/-G5J7kLSz8YY/XtY-bTC3X5I/AAAAAAAAAh4/jLokDsDeiFQsbAtymxMCaElw9Qlx8OkfgCNcBGAsYHQ/s1600/bootstrap-illustration.png" alt="">
   </li>
   <li>
     <p>PHP: PHP (Hypertext Preprocessor) là một ngôn ngữ lập trình phía máy chủ mạnh mẽ và phổ biến.</p>
     <img width="100%" height="400px" src="https://th.bing.com/th/id/OIP.A1V_rgVxBfvAToTMNGZ8SAHaE8?pid=ImgDet&rs=1" alt="">
   </li>
   <li>
-    <p>Lavarel 8: Laravel là một framework PHP mạnh mẽ và linh hoạt, được sử dụng để phát triển ứng dụng web.</p>
-    <img src="" alt="">
+    <p>Laravel 8: Laravel là một framework PHP mạnh mẽ và linh hoạt, được sử dụng để phát triển ứng dụng web.</p>
+    <img width="100%" src="https://th.bing.com/th/id/OIP.OvFl4COpKL-K-OMQ-i5qMAHaEK?pid=ImgDet&rs=1" alt="">
   </li>
 </ul>
 
 <h2>Những nội dung chúng em đã làm được trong 2 sprint vừa qua bao gồm những chức năng sau:</h2>
 <ul>
-  <li>Đăng ký/Đăng nhập</li>
+  <li>Đăng ký</li>
+  <li>Đăng nhập</li>
   <li>Cập nhật thông tin cá nhân</li>
   <li>Tìm kiếm bác sĩ</li>
   <li>Tìm kiếm dịch vụ</li>
