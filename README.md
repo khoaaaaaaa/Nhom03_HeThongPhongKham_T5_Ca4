@@ -86,8 +86,29 @@ Nhóm 3 chúng em gồm 4 thành viên cùng với đề tài "Quản Lý Phòng
 <h3>Giao diện đặt hẹn khám bệnh của khách hàng</h3>
 <img src="https://scontent.fsgn13-4.fna.fbcdn.net/v/t1.15752-9/393838733_1571142500382765_469113509517159630_n.png?_nc_cat=107&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=OyE_5GwoA6UAX-vkTAS&_nc_ht=scontent.fsgn13-4.fna&oh=03_AdSqmtFUzMKrP_pOqDdDONZm8HzI5XMZzrGh9Y0F4yiI5A&oe=65584F96" alt="">
 
-<h3>Công nghệ mà nhóm em sử dụng là ngôn ngữ PHP cùng với thư viện Lavarel 8</h1>
-<img width="100%" height="400px" src="https://th.bing.com/th/id/OIP.A1V_rgVxBfvAToTMNGZ8SAHaE8?pid=ImgDet&rs=1" alt="">
+<h3>Các công nghệ mà nhóm em sử dụng trong đồ án môn Công Nghệ Phần Mềm:</h3>
+<ul>
+  <li>
+    <p>HTML: HTML là ngôn ngữ đánh dấu chính được sử dụng để xây dựng cấu trúc và định dạng nội dung trên trang web.</p>
+    <img src="" alt="">
+  </li>
+  <li>
+    <p>CSS: CSS được sử dụng để áp dụng các kiểu và định dạng cho các phần tử HTML. Nó giúp điều chỉnh màu sắc, kích thước, khoảng cách, vị trí và hiệu ứng của các phần tử trên trang web.</p>
+    <img src="" alt="">
+  </li>
+  <li>
+    <p>CSS: Bootstrap: Bootstrap là một framework CSS phổ biến, cung cấp một tập hợp các lớp CSS và JavaScript để giúp xây dựng giao diện.</p>
+    <img src="" alt="">
+  </li>
+  <li>
+    <p>PHP: PHP (Hypertext Preprocessor) là một ngôn ngữ lập trình phía máy chủ mạnh mẽ và phổ biến.</p>
+    <img width="100%" height="400px" src="https://th.bing.com/th/id/OIP.A1V_rgVxBfvAToTMNGZ8SAHaE8?pid=ImgDet&rs=1" alt="">
+  </li>
+  <li>
+    <p>Lavarel 8: Laravel là một framework PHP mạnh mẽ và linh hoạt, được sử dụng để phát triển ứng dụng web.</p>
+    <img src="" alt="">
+  </li>
+</ul>
 
 <h2>Những nội dung chúng em đã làm được trong 2 sprint vừa qua bao gồm những chức năng sau:</h2>
 <ul>
