@@ -87,7 +87,7 @@ Nhóm 3 chúng em gồm 4 thành viên cùng với đề tài "Quản Lý Phòng
 <img src="https://scontent.fsgn13-4.fna.fbcdn.net/v/t1.15752-9/393838733_1571142500382765_469113509517159630_n.png?_nc_cat=107&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=OyE_5GwoA6UAX-vkTAS&_nc_ht=scontent.fsgn13-4.fna&oh=03_AdSqmtFUzMKrP_pOqDdDONZm8HzI5XMZzrGh9Y0F4yiI5A&oe=65584F96" alt="">
 
 <h1>Công nghệ mà nhóm em sử dụng là ngôn ngữ PHP cùng với thư viện Lavarel 8</h1>
-<img width="100%" src="https://th.bing.com/th/id/OIP.A1V_rgVxBfvAToTMNGZ8SAHaE8?pid=ImgDet&rs=1" alt="">
+<img width="100%" height="300px" src="https://th.bing.com/th/id/OIP.A1V_rgVxBfvAToTMNGZ8SAHaE8?pid=ImgDet&rs=1" alt="">
 
 
 
