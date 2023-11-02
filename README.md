@@ -82,7 +82,7 @@ Nhóm 3 chúng em gồm 4 thành viên cùng với đề tài "Quản Lý Phòng
   </li>
   <li>
     <h2>CSS: Bootstrap: Bootstrap là một framework CSS phổ biến, cung cấp một tập hợp các lớp CSS và JavaScript để giúp xây dựng giao diện.</h2>
-    <img width="45%" src="https://1.bp.blogspot.com/-G5J7kLSz8YY/XtY-bTC3X5I/AAAAAAAAAh4/jLokDsDeiFQsbAtymxMCaElw9Qlx8OkfgCNcBGAsYHQ/s1600/bootstrap-illustration.png" alt="">
+    <img width="48%" src="https://1.bp.blogspot.com/-G5J7kLSz8YY/XtY-bTC3X5I/AAAAAAAAAh4/jLokDsDeiFQsbAtymxMCaElw9Qlx8OkfgCNcBGAsYHQ/s1600/bootstrap-illustration.png" alt="">
   </li>
   <li>
     <h2>PHP: PHP (Hypertext Preprocessor) là một ngôn ngữ lập trình phía máy chủ mạnh mẽ và phổ biến.</h2>
