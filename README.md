@@ -73,50 +73,52 @@ Nhóm 3 chúng em gồm 4 thành viên cùng với đề tài "Quản Lý Phòng
 <h3>Các công nghệ mà nhóm em sử dụng trong đồ án môn Công Nghệ Phần Mềm:</h3>
 <ul>
   <li>
-    <p>HTML: HTML là ngôn ngữ đánh dấu chính được sử dụng để xây dựng cấu trúc và định dạng nội dung trên trang web.</p>
-    <img width="100%" src="https://th.bing.com/th/id/OIP.LISFqMxGvYseuESXt-MK_wHaEK?pid=ImgDet&rs=1" alt="">
+    <h2>HTML: HTML là ngôn ngữ đánh dấu chính được sử dụng để xây dựng cấu trúc và định dạng nội dung trên trang web.</h2>
+    <img src="https://th.bing.com/th/id/OIP.LISFqMxGvYseuESXt-MK_wHaEK?pid=ImgDet&rs=1" alt="">
   </li>
   <li>
-    <p>CSS: CSS được sử dụng để áp dụng các kiểu và định dạng cho các phần tử HTML. Nó giúp điều chỉnh màu sắc, kích thước, khoảng cách, vị trí và hiệu ứng của các phần tử trên trang web.</p>
-    <img width="100%" src="https://th.bing.com/th/id/OIP.FtpXpkKTS28O21r3NstBggHaEL?pid=ImgDet&rs=1" alt="">
+    <h2>CSS: CSS được sử dụng để áp dụng các kiểu và định dạng cho các phần tử HTML. Nó giúp điều chỉnh màu sắc, kích thước, khoảng cách, vị trí và hiệu ứng của các phần tử trên trang web.</h2>
+    <img src="https://th.bing.com/th/id/OIP.FtpXpkKTS28O21r3NstBggHaEL?pid=ImgDet&rs=1" alt="">
   </li>
   <li>
-    <p>CSS: Bootstrap: Bootstrap là một framework CSS phổ biến, cung cấp một tập hợp các lớp CSS và JavaScript để giúp xây dựng giao diện.</p>
-    <img width="100%" src="https://1.bp.blogspot.com/-G5J7kLSz8YY/XtY-bTC3X5I/AAAAAAAAAh4/jLokDsDeiFQsbAtymxMCaElw9Qlx8OkfgCNcBGAsYHQ/s1600/bootstrap-illustration.png" alt="">
+    <h2>CSS: Bootstrap: Bootstrap là một framework CSS phổ biến, cung cấp một tập hợp các lớp CSS và JavaScript để giúp xây dựng giao diện.</h2>
+    <img src="https://1.bp.blogspot.com/-G5J7kLSz8YY/XtY-bTC3X5I/AAAAAAAAAh4/jLokDsDeiFQsbAtymxMCaElw9Qlx8OkfgCNcBGAsYHQ/s1600/bootstrap-illustration.png" alt="">
   </li>
   <li>
-    <p>PHP: PHP (Hypertext Preprocessor) là một ngôn ngữ lập trình phía máy chủ mạnh mẽ và phổ biến.</p>
-    <img width="100%" height="400px" src="https://th.bing.com/th/id/OIP.A1V_rgVxBfvAToTMNGZ8SAHaE8?pid=ImgDet&rs=1" alt="">
+    <h2>PHP: PHP (Hypertext Preprocessor) là một ngôn ngữ lập trình phía máy chủ mạnh mẽ và phổ biến.</h2>
+    <img src="https://th.bing.com/th/id/OIP.A1V_rgVxBfvAToTMNGZ8SAHaE8?pid=ImgDet&rs=1" alt="">
   </li>
   <li>
-    <p>Laravel 8: Laravel là một framework PHP mạnh mẽ và linh hoạt, được sử dụng để phát triển ứng dụng web.</p>
-    <img width="100%" src="https://th.bing.com/th/id/OIP.OvFl4COpKL-K-OMQ-i5qMAHaEK?pid=ImgDet&rs=1" alt="">
+    <h2>Laravel 8: Laravel là một framework PHP mạnh mẽ và linh hoạt, được sử dụng để phát triển ứng dụng web.</h2>
+    <img src="https://th.bing.com/th/id/OIP.OvFl4COpKL-K-OMQ-i5qMAHaEK?pid=ImgDet&rs=1" alt="">
   </li>
 </ul>
 
 <h2>Những nội dung chúng em đã làm được trong 2 sprint vừa qua bao gồm những chức năng sau:</h2>
 <ul>
-  <li>Đăng ký</li>
-  <li>Đăng nhập</li>
-  <li>Cập nhật thông tin cá nhân</li>
-  <li>Tìm kiếm bác sĩ</li>
-  <li>Tìm kiếm dịch vụ</li>
-  <li>Đặt lịch hẹn tư vấn khám bệnh</li>
-  <li>Chỉnh sửa thông tin lịch hẹn</li>
-  <li>Xóa lịch hẹn</li>
-  <li>Xem chi tiết bác sĩ</li>
-  <li>Xem chi tiết dịch vụ</li>
-  <li>Các giao diện cơ bản của website</li>
+  <li>
+    <h2>Đăng ký</h2>
+  </li>
+  <li><h2>Đăng nhập</h2></li>
+  <li><h2>Cập nhật thông tin cá nhân</h2></li>
+  <li><h2>Tìm kiếm bác sĩ</h2></li>
+  <li><h2>Tìm kiếm dịch vụ</h2></li>
+  <li><h2>Đặt lịch hẹn tư vấn khám bệnh</h2></li>
+  <li><h2>Chỉnh sửa thông tin lịch hẹn</h2></li>
+  <li><h2>Xóa lịch hẹn</h2></li>
+  <li><h2>Xem chi tiết bác sĩ</h2></li>
+  <li><h2>Xem chi tiết dịch vụ</h2></li>
+  <li><h2>Tất cả giao diện cơ bản của website</h2></li>
 </ul>
 <h2>Trong sprint 3, chúng em sẽ tiến hành phân quyền cho từng bộ phận. Đồng thời, chúng em sẽ cố gắng thực hiện chức năng sắp xếp bác sĩ cho khách hàng đặt lịch tư vấn một cách chính xác nhất.</h2>
 <h2>Trong tương lai, chúng em có thể phát triển thêm nhiều chức năng khác ví dụ như:</h2>
 <ul>
-  <li>Phát triển thêm tính năng đánh giá và nhận xét bác sĩ</li>
-  <li>Tích hợp thêm hệ thống thông tin y tế điện tử</li>
-  <li>Lưu hồ sơ bệnh án của bệnh nhân sau khi tư vấn đặt lịch</li>
-  <li>Tích hợp nhiều phương thức thanh toán</li>
-  <li>Áp dụng trí tuệ nhân tạo vào hệ thống</li>
-  <li>Quản lý khoa một cách khoa học</li>
+  <li><h2>Phát triển thêm tính năng đánh giá và nhận xét bác sĩ</h2></li>
+  <li><h2>Tích hợp thêm hệ thống thông tin y tế điện tử</h2></li>
+  <li><h2>Lưu hồ sơ bệnh án của bệnh nhân sau khi tư vấn đặt lịch</h2></li>
+  <li><h2>Quản lý khoa một cách khoa học</h2></li>
+  <li><h2>Tích hợp nhiều phương thức thanh toán</h2></li>
+  <li><h2>Áp dụng trí tuệ nhân tạo vào hệ thống</h2></li>
 </ul>
 <h2>Nhằm nâng cao sự tiện ích dành cho khách hàng, hệ thống của chúng em còn có thể phát triển thêm các tính năng như trên. Nhằm đáp ứng nhu cầu sức khỏe của cộng đồng, qua khảo sát một số trang website của một số bệnh viện chúng em cũng rút ra được thêm nhiều kinh nghiệm xây dựng hệ thống.</h2>
 
