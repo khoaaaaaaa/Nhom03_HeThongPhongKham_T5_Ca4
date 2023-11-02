@@ -86,9 +86,33 @@ Nhóm 3 chúng em gồm 4 thành viên cùng với đề tài "Quản Lý Phòng
 <h3>Giao diện đặt hẹn khám bệnh của khách hàng</h3>
 <img src="https://scontent.fsgn13-4.fna.fbcdn.net/v/t1.15752-9/393838733_1571142500382765_469113509517159630_n.png?_nc_cat=107&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=OyE_5GwoA6UAX-vkTAS&_nc_ht=scontent.fsgn13-4.fna&oh=03_AdSqmtFUzMKrP_pOqDdDONZm8HzI5XMZzrGh9Y0F4yiI5A&oe=65584F96" alt="">
 
-<h1>Công nghệ mà nhóm em sử dụng là ngôn ngữ PHP cùng với thư viện Lavarel 8</h1>
-<img width="100%" height="300px" src="https://th.bing.com/th/id/OIP.A1V_rgVxBfvAToTMNGZ8SAHaE8?pid=ImgDet&rs=1" alt="">
+<h3>Công nghệ mà nhóm em sử dụng là ngôn ngữ PHP cùng với thư viện Lavarel 8</h1>
+<img width="100%" height="400px" src="https://th.bing.com/th/id/OIP.A1V_rgVxBfvAToTMNGZ8SAHaE8?pid=ImgDet&rs=1" alt="">
 
+<h2>Những nội dung chúng em đã làm được trong 2 sprint vừa qua bao gồm những chức năng sau:</h2>
+<ul>
+  <li>Đăng ký/Đăng nhập</li>
+  <li>Cập nhật thông tin cá nhân</li>
+  <li>Tìm kiếm bác sĩ</li>
+  <li>Tìm kiếm dịch vụ</li>
+  <li>Đặt lịch hẹn tư vấn khám bệnh</li>
+  <li>Chỉnh sửa thông tin lịch hẹn</li>
+  <li>Xóa lịch hẹn</li>
+  <li>Xem chi tiết bác sĩ</li>
+  <li>Xem chi tiết dịch vụ</li>
+  <li>Các giao diện cơ bản của website</li>
+</ul>
+<h2>Trong sprint 3, chúng em sẽ tiến hành phân quyền cho từng bộ phận. Đồng thời, chúng em sẽ cố gắng thực hiện chức năng sắp xếp bác sĩ cho khách hàng đặt lịch tư vấn một cách chính xác nhất.</h2>
+<h2>Trong tương lai, chúng em có thể phát triển thêm nhiều chức năng khác ví dụ như:</h2>
+<ul>
+  <li>Phát triển thêm tính năng đánh giá và nhận xét bác sĩ</li>
+  <li>Tích hợp thêm hệ thống thông tin y tế điện tử</li>
+  <li>Lưu hồ sơ bệnh án của bệnh nhân sau khi tư vấn đặt lịch</li>
+  <li>Tích hợp nhiều phương thức thanh toán</li>
+  <li>Áp dụng trí tuệ nhân tạo vào hệ thống</li>
+  <li>Quản lý khoa một cách khoa học</li>
+</ul>
+<h2>Nhằm nâng cao sự tiện ích dành cho khách hàng, hệ thống của chúng em còn có thể phát triển thêm các tính năng như trên. Nhằm đáp ứng nhu cầu sức khỏe của cộng đồng, qua khảo sát một số trang website của một số bệnh viện chúng em cũng rút ra được thêm nhiều kinh nghiệm xây dựng hệ thống.</h2>
 
 
 
