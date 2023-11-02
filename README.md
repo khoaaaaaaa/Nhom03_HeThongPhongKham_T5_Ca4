@@ -90,7 +90,7 @@ Nhóm 3 chúng em gồm 4 thành viên cùng với đề tài "Quản Lý Phòng
   </li>
   <li>
     <h3>Laravel 8: Laravel là một framework PHP mạnh mẽ và linh hoạt, được sử dụng để phát triển ứng dụng web.</h3>
-    <img src="https://th.bing.com/th/id/OIP.OvFl4COpKL-K-OMQ-i5qMAHaEK?pid=ImgDet&rs=1" alt="">
+    <img src="https://th.bing.com/th/id/OIP.RmnSs_BYHekF1vmqonuRQgHaEN?pid=ImgDet&rs=1" alt="">
   </li>
 </ul>
 
