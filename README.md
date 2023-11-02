@@ -99,28 +99,28 @@ Nhóm 3 chúng em gồm 4 thành viên cùng với đề tài "Quản Lý Phòng
   <li>
     <h2>Đăng ký</h2>
   </li>
-  <li><h2>Đăng nhập</h2></li>
-  <li><h2>Cập nhật thông tin cá nhân</h2></li>
-  <li><h2>Tìm kiếm bác sĩ</h2></li>
-  <li><h2>Tìm kiếm dịch vụ</h2></li>
-  <li><h2>Đặt lịch hẹn tư vấn khám bệnh</h2></li>
-  <li><h2>Chỉnh sửa thông tin lịch hẹn</h2></li>
-  <li><h2>Xóa lịch hẹn</h2></li>
-  <li><h2>Xem chi tiết bác sĩ</h2></li>
-  <li><h2>Xem chi tiết dịch vụ</h2></li>
-  <li><h2>Tất cả giao diện cơ bản của website</h2></li>
+  <li><h3>Đăng nhập</h2></li>
+  <li><h3>Cập nhật thông tin cá nhân</h3></li>
+  <li><h3>Tìm kiếm bác sĩ</h3></li>
+  <li><h3>Tìm kiếm dịch vụ</h2></li>
+  <li><h3>Đặt lịch hẹn tư vấn khám bệnh</h3></li>
+  <li><h3>Chỉnh sửa thông tin lịch hẹn</h23</li>
+  <li><h3>Xóa lịch hẹn</h2></li3
+  <li><h3>Xem chi tiết bác sĩ</32></li>
+  <li><h3>Xem chi tiết dịch vụ<3h2></li>
+  <li><h3>Tất cả giao diện cơ b3n của website</h2></li>
 </ul>
 <h2>Trong sprint 3, chúng em sẽ tiến hành phân quyền cho từng bộ phận. Đồng thời, chúng em sẽ cố gắng thực hiện chức năng sắp xếp bác sĩ cho khách hàng đặt lịch tư vấn một cách chính xác nhất.</h2>
-<h2>Trong tương lai, chúng em có thể phát triển thêm nhiều chức năng khác ví dụ như:</h2>
+<h1>Trong tương lai, chúng em có thể phát triển thêm nhiều chức năng khác ví dụ như:</h1>
 <ul>
-  <li><h2>Phát triển thêm tính năng đánh giá và nhận xét bác sĩ</h2></li>
-  <li><h2>Tích hợp thêm hệ thống thông tin y tế điện tử</h2></li>
-  <li><h2>Lưu hồ sơ bệnh án của bệnh nhân sau khi tư vấn đặt lịch</h2></li>
-  <li><h2>Quản lý khoa một cách khoa học</h2></li>
-  <li><h2>Tích hợp nhiều phương thức thanh toán</h2></li>
-  <li><h2>Áp dụng trí tuệ nhân tạo vào hệ thống</h2></li>
+  <li><h3>Phát triển thêm tính năng đánh giá và nhận xét bác sĩ</h3></li>
+  <li><h3>Tích hợp thêm hệ thống thông tin y tế điện tử</h3></li>
+  <li><h3>Lưu hồ sơ bệnh án của bệnh nhân sau khi tư vấn đặt lịch</h3></li>
+  <li><h3>Quản lý khoa một cách khoa học</h3></li>
+  <li><h3>Tích hợp nhiều phương thức thanh toán</h3></li>
+  <li><h3>Áp dụng trí tuệ nhân tạo vào hệ thống</h3></li>
 </ul>
-<h2>Nhằm nâng cao sự tiện ích dành cho khách hàng, hệ thống của chúng em còn có thể phát triển thêm các tính năng như trên. Nhằm đáp ứng nhu cầu sức khỏe của cộng đồng, qua khảo sát một số trang website của một số bệnh viện chúng em cũng rút ra được thêm nhiều kinh nghiệm xây dựng hệ thống.</h2>
+<h1>Nhằm nâng cao sự tiện ích dành cho khách hàng, hệ thống của chúng em còn có thể phát triển thêm các tính năng như trên. Nhằm đáp ứng nhu cầu sức khỏe của cộng đồng, qua khảo sát một số trang website của một số bệnh viện chúng em cũng rút ra được thêm nhiều kinh nghiệm xây dựng hệ thống.</h1>
 
 
 
